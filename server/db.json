@@ -1,0 +1,7 @@
+{
+  "elements": [
+    { "id": 1, "product": "Plastic bottle", "description": "It must be deposited in the YELLOW container" },
+    { "id": 2, "product": "Glass jar", "description": "It must be deposited in the GREEN container" },
+    { "id": 3, "product": "Newspaper", "description": "It must be deposited in the BLUE container" }
+  ]
+}
